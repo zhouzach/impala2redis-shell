@@ -1,6 +1,5 @@
 impala2redis-shell
 =================
----
     export data from impala into redis
 
 Features
@@ -8,6 +7,7 @@ Features
    1.awk:convert redis commands into protocal to increase efficiency
    2.redis pipe
    3.redis command: pfadd
+
 Prerequisites
 ------------
     install impala and redis
