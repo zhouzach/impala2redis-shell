@@ -3,9 +3,9 @@
     export data from impala into redis
 
 ##Features#
-   *awk:convert redis commands into protocal to increase efficiency
-   *redis pipe
-   *redis command: pfadd
+   1.awk:convert redis commands into protocal to increase efficiency
+   2.redis pipe
+   3.redis command: pfadd
 ##Prerequisites#
     install impala and redis
 
