@@ -4,7 +4,7 @@ impala2redis-shell
 
 Features
 --------
-   1.   awk:convert redis commands into protocal to increase efficiency
+   1.   awk: convert redis commands into protocal to increase efficiency
    2.   redis pipe
    3.   redis command: pfadd
 
